@@ -1,0 +1,22 @@
+#super-container {
+  background-color: #ccc;
+  width: 600px;
+  height: 600px;
+  border: 2px green dashed;
+}
+#super-container .content {
+  color: red;
+  font-weight: bolder;
+  padding: 20px;
+}
+#super-container .content-color {
+  color: green;
+}
+#super-container .content-description {
+  font-family: arial, serif;
+}
+#super-container .content-newdescription {
+  font-size: 35px;
+  font-weight: bolder;
+  color: yellow;
+}
